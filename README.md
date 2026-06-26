@@ -17,4 +17,7 @@ git clone https://github.com/duke-of-alaska/browser-opener-cli.git .
 ## Will this be available in python pip or nodejs npm?
 I don't really know yet. Potentially though.
 
+## Why is this unfinished?
+Development still in early stages.
+
 
