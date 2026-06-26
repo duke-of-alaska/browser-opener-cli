@@ -14,10 +14,18 @@ If you want it in your current directory:
 git clone https://github.com/duke-of-alaska/browser-opener-cli.git .
 ```
 
-## Will this be available in python pip or nodejs npm?
+## How do I use it?
+Run this:
+```bash
+cd browser-opener-cli
+python Main\main.py [your-web-browser] [website-name]
+```
+For custom config, edit config.json in "JSON Config\config.json"
+
+## Will this be available in python pip or node.js npm?
 I don't really know yet. Potentially though.
 
-## Why is this unfinished?
-Development still in early stages.
+## Submit Issues
+If any bugs appear, please submit an issue.
 
 
